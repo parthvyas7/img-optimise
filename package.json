@@ -1,0 +1,12 @@
+{
+  "name": "img-optimise",
+  "version": "1.0.0",
+  "description": "Optimizes images for web deployment. Supports various formats like JPG/JPEG, PNG, and WebP",
+  "type": "module",
+  "main": "index.js",
+  "author": "Parth Vyas",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.3"
+  }
+}
